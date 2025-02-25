@@ -20,13 +20,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-<div align="center">
-   <img src="https://streak-stats.demolab.com?user=coding-nouman&theme=highcontrast&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=500&dates=2661EB&stroke=250D0D" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🏆 Contributions
 <div align="center">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=coding-nouman&theme=react-dark" alt="GitHub Activity Graph" />
