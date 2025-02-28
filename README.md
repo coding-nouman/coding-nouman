@@ -19,13 +19,6 @@
 
 ---
 
-## 🏆 Contributions *(Starting My Journey!)*
-<div align="center">
-   <img src="https://ghchart.rshah.org/00FFA1/coding-nouman" alt="GitHub Contributions" />
-</div>
-
----
-
 ## 💻 Tech Stack *(Currently Learning)*
 - **Frontend:** HTML, CSS, Git  
 - **Tools:** VS Code, GitHub  
