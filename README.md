@@ -41,7 +41,7 @@
 ---
 
 ## 📂 My First Projects (Work in Progress)
-- **My First Webpage** (Private Repo)  
+- **my first webpage** (Private Repo)  
 - **climate-awareness-website** (Working Progress)  
 
 ---
