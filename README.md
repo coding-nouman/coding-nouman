@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 - 🚀 **Currently Learning:** Web Development (Frontend & Backend)
-- 🎯 **Focused on:** HTML, CSS, and Git (March 2025 Progress)
+- 🎯 **Focused on:** HTML, CSS, and Git 
 - 🌍 **Goal:** Become a Full-Stack Developer & Work Remotely in the U.S.
 - 📚 **Commitment:** Coding **every single day** for 6 months
 
