@@ -41,8 +41,8 @@
 ---
 
 ## 📂 My First Projects (Work in Progress)
-- **Simple Portfolio Website** (Building in March)  
-- **Basic Landing Page with CSS** (Coming Soon)  
+- **My First Webpage** (Private Repo)  
+- **climate-awareness-website** (Working Progress)  
 
 ---
 
