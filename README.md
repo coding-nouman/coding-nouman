@@ -27,7 +27,7 @@
 
 ---
 
-## 📚 What I'm Learning Right Now
+## 📚 What I'm Learning Right Now 
 ✅ **February-March:** HTML, CSS, Git, Responsive Design  
 🔜 **April:** JavaScript (Basics & DOM Manipulation)  
 
