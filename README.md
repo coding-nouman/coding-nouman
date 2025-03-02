@@ -35,7 +35,6 @@
 
 ## 📂 My First Projects (Work in Progress)
 - **my first webpage** (Private Repo)  
-- **climate-awareness-website** (Working Progress)  
 
 ---
 
