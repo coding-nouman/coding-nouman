@@ -5,10 +5,10 @@ I'm a self-taught web developer currently learning and building projects to impr
 ### Projects I've completed:
 
 - **My First Portfolio** – A simple personal portfolio website using HTML and CSS.  
-  [GitHub Repository](https://github.com/coding-nouman/my-first-portfolio)
+  [View Website](https://my-first-portfolio-1.vercel.app/)
 
 - **Nouman Blog** – A basic blog layout created with semantic HTML and styled with CSS.  
-  [Coming Soon](https://github.com/coding-nouman/Nouman-Blog)
+  [View Website](https://nouman-blog.vercel.app/)
 
 I'm currently focused on improving my CSS by learning layout techniques like Flexbox and Grid, and practicing responsive design.
 
