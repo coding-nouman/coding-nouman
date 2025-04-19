@@ -26,13 +26,12 @@
 
 - 🎨 **My First Portfolio**  
   A basic personal website using only HTML & CSS  
-  [🔗 View](#)
+  [🔗 View](https://github.com/coding-nouman/my-first-portfolio)
 
 - ✍️ **Nouman Blog**  
   A simple blog layout using semantic HTML + CSS  
-  [🔗 View](#)
+  [🔗 View](https://github.com/coding-nouman/Nouman-Blog)
 
-> *(Note: More real and original projects are coming soon)*
 
 ---
 
@@ -45,19 +44,10 @@
 
 ---
 
-## 🧭 2025 Learning Goals
-
-- 🚀 Build a clean, real portfolio with 5+ frontend projects  
-- ⚛️ Start learning **React.js** (after mastering JS basics)  
-- 👥 Improve GitHub collaboration & teamwork communication  
-- 💼 Prepare for entry-level **frontend developer roles**
-
----
-
 ## 📫 Contact Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coding-nouman)  
-📧 Email: `codingnouman@gmail.com`
+📧 Email: `noumanali.coding@gmail.com`
 
 ---
 
