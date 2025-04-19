@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nouman – Frontend Developer in Training from Pakistan
+# 👋 Hi, I'm Nouman – Frontend Developer 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Frontend+Web+Learner+%7C+Self-Taught+Path;Building+Clean+and+Responsive+Websites;Consistency+%3D+Progress)](https://github.com/coding-nouman)
 
