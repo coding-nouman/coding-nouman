@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nouman – Beginner Frontend Learner from Pakistan
+# 👋 Hi, I'm Nouman – Beginner Frontend Learner 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Learning+Frontend+Step+by+Step;Practicing+HTML+and+CSS+Daily)](https://github.com/coding-nouman)
 
@@ -28,13 +28,7 @@
 
 - 🎨 **My First Portfolio**  
   A simple personal portfolio using only HTML and CSS  
-  [🔗 View](#)
-
-- ✍️ **Nouman Blog**  
-  A blog-style layout using semantic HTML + CSS  
-  [🔗 View](#)
-
-> *(Note: Code inspired by tutorials for practice purposes only)*
+  [🔗 View](https://github.com/coding-nouman/my-first-portfolio)
 
 ---
 
@@ -49,13 +43,7 @@
 ## 📫 Contact Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coding-nouman)  
-📧 Email: `codingnouman@gmail.com`
-
----
-
-## 💬 Quote I Follow
-
-> “Keep learning. Keep building. Step by step.”
+📧 Email: `noumanali.coding@gmail.com`
 
 ---
 
