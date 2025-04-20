@@ -1,49 +1,55 @@
-# 👋 Hi, I'm Nouman – Beginner Frontend Learner 
+<!-- HEADER -->
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Learning+Frontend+Step+by+Step;Practicing+HTML+and+CSS+Daily)](https://github.com/coding-nouman)
+# 👨‍💻 Nouman | Beginner Frontend Developer
 
----
+🎯 Focused on writing clean, responsive frontend code — step by step  
+📚 Currently learning HTML, CSS — Planning JavaScript & React next  
+🛠️ Building real projects with purpose, not just tutorials
 
-## 🌟 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=500&lines=Frontend+Learner+on+a+Mission;Building+HTML+%2B+CSS+JavaScript+Projects+Daily)](https://github.com/coding-nouman)
 
-- 🧠 Currently learning **HTML and CSS**
-- 🧱 Taking time to understand each topic with real practice
-- 🛠️ Slowly building small projects using clean, simple code
-- ⚙️ Practicing daily to improve my frontend skills step by step
-
----
-
-## ✅ My Learning Progress (April 2025)
-
-| Technology    | Status                    |
-|---------------|----------------------------|
-| HTML5         | Completed Basics ✅         |
-| CSS3          | Started – In Progress ⚙️    |
-| JavaScript    | Not Started Yet ❌         |
-| React.js      | Not Started Yet ❌         |
+</div>
 
 ---
 
-## 💼 Mini Projects
+## 🚀 Current Learning Journey (April 2025)
 
-- 🎨 **My First Portfolio**  
-  A simple personal portfolio using only HTML and CSS  
-  [🔗 View](https://github.com/coding-nouman/my-first-portfolio)
+<div align="center">
 
----
+🟢 **HTML5** – Mastered basics and semantic structure ✅  
+🟢 **CSS3** – Practicing layouts, Flexbox, Grid daily ⚙️  
+🟡 **JavaScript** – Started learning: variables, functions, DOM 🧠  
+🔴 **React.js** – Coming soon after JS 💥
 
-## 📘 Current Focus
-
-- 🧱 Writing real HTML and CSS from scratch  
-- 📱 Learning responsive layouts with Flexbox and Grid  
-- ⏸️ Pausing when needed for better focus and understanding  
+</div>
 
 ---
 
-## 📫 Contact Me
+## 🧱 Current Focus
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coding-nouman)  
-📧 Email: `noumanali.coding@gmail.com`
+- 📱 Practicing responsive design from mobile to desktop
+- 📚 Taking breaks to deeply understand what I'm learning
+- 💡 Creating real projects from scratch
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [@coding-nouman](https://github.com/coding-nouman)  
+- Email: `noumanali.coding@gmail.com`
 
 ---
 
