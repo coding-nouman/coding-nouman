@@ -7,7 +7,7 @@
 📚 Currently learning HTML, CSS — Planning JavaScript & React next  
 🛠️ Building real projects with purpose, not just tutorials
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=500&lines=Frontend+Learner+on+a+Mission;Building+HTML+%2B+CSS+Projects+Daily)](https://github.com/coding-nouman)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=500&lines=Frontend+Learner+on+a+Mission;Building+HTML+%2B+CSS+JavaScript+Projects+Daily)](https://github.com/coding-nouman)
 
 </div>
 
@@ -17,21 +17,12 @@
 
 <div align="center">
 
-🟢 **HTML5** – Mastered basics and semantic structure  
-🟡 **CSS3** – Learning layouts, Flexbox, Grid  
-🔴 **JavaScript** – Not started yet  
-🔴 **React.js** – Not started yet
+🟢 **HTML5** – Mastered basics and semantic structure ✅  
+🟢 **CSS3** – Practicing layouts, Flexbox, Grid daily ⚙️  
+🟡 **JavaScript** – Started learning: variables, functions, DOM 🧠  
+🔴 **React.js** – Coming soon after JS 💥
 
 </div>
-
----
-
-## 💼 Mini Project
-
-### 🎨 My First Portfolio Website  
-> A clean and responsive portfolio made using **pure HTML & CSS**  
-> Focused on structure, layout, and clean design.  
-🔗 [**View on GitHub**](https://github.com/coding-nouman/my-first-portfolio)
 
 ---
 
