@@ -4,7 +4,7 @@
 # 👨‍💻 Nouman | Beginner Frontend Developer
 
 🎯 Focused on writing clean, responsive frontend code — step by step  
-📚 Currently learning HTML, CSS — Planning JavaScript & React next  
+📚 Currently learning JavaScript & React next  
 🛠️ Building real projects with purpose, not just tutorials
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=500&lines=Frontend+Learner+on+a+Mission;Building+HTML+%2B+CSS+JavaScript+Projects+Daily)](https://github.com/coding-nouman)
