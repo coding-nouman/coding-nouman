@@ -51,9 +51,10 @@ Generates a snake game from a github user contributions graph
   <img src="HTML.svg" width="48" alt="HTML">
   <img src="CSS.svg" width="48" alt="CSS">
   <img src="JavaScript.svg" width="48" alt="JavaScript">
+  <img src="Github-Dark.svg" width="48" alt="GitHub">
   <img src="Git.svg" width="48" alt="Git">
   <img src="Windows-Light.svg" width="48" alt="Windows">
-  <img src="Github-Dark.svg" width="48" alt="GitHub">
+
 </p>
 
 ---
