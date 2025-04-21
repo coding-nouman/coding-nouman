@@ -1,54 +1,48 @@
-<!-- HEADER -->
+<!-- Typing Animation Banner -->
 <div align="center">
-
-# 👨‍💻 Nouman | Beginner Frontend Developer
-
-🎯 Focused on writing clean, responsive frontend code — step by step  
-📚 Currently learning JavaScript & React next  
-🛠️ Building real projects with purpose, not just tutorials
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=500&lines=Frontend+Learner+on+a+Mission;Building+HTML+%2B+Projects+Daily)](https://github.com/coding-nouman)
-
+  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=62F729&background=24975C00&center=true&width=435&lines=%E2%82%8A+%CB%9A%E2%82%8A+%E2%9A%9CNouman+Coding%E2%9A%9C+%CB%9A+%E2%82%8A%CB%9A;%E2%8B%86%EF%BD%A1%EF%BE%9F%E2%98%81%EF%B8%8E%EF%BD%A1Software+Engineer%E2%8B%86%EF%BD%A1%E2%98%81%EF%B8%8E%EF%BD%A1%E2%8B%86;%E2%96%91%E2%96%92%E2%96%93Frontend+Developer%E2%96%93%E2%96%92%E2%96%91" alt="Typing SVG" />
+  </a>
 </div>
 
+---
 
+## 🔥 About Me
 
+🎯 I'm a dedicated **Frontend Web Developer** currently mastering:
+
+- ✅ **HTML5** (Semantic Tags, Forms, Media, Structure)  
+- 🚧 **CSS** (In Progress)  
+- 📁 Daily coding & GitHub commits  
+- 🌱 Focused on **clean code**, **accessibility**, and **best practices**  
+
+---
+
+## 🧰 Tools & Technologies
+
+| Languages | Dev Tools | OS |
+|----------|-----------|----|
+| <img src="HTML.svg" width="40" /> HTML | <img src="Git.svg" width="40" /> Git | <img src="Windows-Light.svg" width="40" /> Windows |
+| <img src="CSS.svg" width="40" /> CSS | <img src="Github-Dark.svg" width="40" /> GitHub |  |
+| <img src="JavaScript.svg" width="40" /> JavaScript *(Coming Soon)* | <img src="VSCode-Dark.svg" width="40" /> VS Code |  |
+
+---
+
+## 📊 GitHub Summary Cards (Blue Theme)
+
+<div align="center">
+  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coding-nouman&theme=tokyonight&v=2"/>
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
----
-
-## 🧱 Current Focus
-
-- 📱 Practicing responsive design from mobile to desktop
-- 📚 Taking breaks to deeply understand what I'm learning
-- 💡 Creating real projects from scratch
-
----
-
-## 🛠️ Tools & Technologies
-
-<p>
-  <img src="HTML.svg" width="48" alt="HTML">
-  <img src="CSS.svg" width="48" alt="CSS">
-  <img src="JavaScript.svg" width="48" alt="JavaScript">
-  <img src="Github-Dark.svg" width="48" alt="GitHub">
-  <img src="Git.svg" width="48" alt="Git">
-  <img src="Windows-Light.svg" width="48" alt="Windows">
-
-</p>
 
 ---
 
