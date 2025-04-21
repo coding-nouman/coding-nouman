@@ -13,16 +13,6 @@
 
 ---
 
-## 🚀 Current Learning Journey (April 2025)
-
-<div align="center">
-
-🟢 **HTML5** – Mastered basics and semantic structure ✅  
-
-</div>
-
----
-
 ## 🧱 Current Focus
 
 - 📱 Practicing responsive design from mobile to desktop
