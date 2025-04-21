@@ -48,12 +48,12 @@ Generates a snake game from a github user contributions graph
 ## 🛠️ Tools & Technologies
 
 <p>
-  <img src="icons/HTML.svg" width="48" alt="HTML">
-  <img src="icons/CSS.svg" width="48" alt="CSS">
-  <img src="icons/JavaScript.svg" width="48" alt="JavaScript">
-  <img src="icons/Git.svg" width="48" alt="Git">
-  <img src="icons/Windows-Light.svg" width="48" alt="Windows">
-  <img src="icons/Github-Dark.svg" width="48" alt="GitHub">
+  <img src="HTML.svg" width="48" alt="HTML">
+  <img src="CSS.svg" width="48" alt="CSS">
+  <img src="JavaScript.svg" width="48" alt="JavaScript">
+  <img src="Git.svg" width="48" alt="Git">
+  <img src="Windows-Light.svg" width="48" alt="Windows">
+  <img src="Github-Dark.svg" width="48" alt="GitHub">
 </p>
 
 ---
