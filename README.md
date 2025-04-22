@@ -34,10 +34,6 @@
 
 ## 📊 GitHub Stats
 
-<div>
-<img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coding-nouman&theme=tokyonight&v=2"/>  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coding-nouman&theme=tokyonight&utcOffset=+5" />
-</div>
 
 ---
 
