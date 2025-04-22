@@ -9,12 +9,11 @@
 
 ## 🔥 About Me
 
-🎯 I'm a dedicated **Frontend Web Developer** currently mastering:
+🎯 I'm a dedicated **Frontend Web Developer** currently learning:
 
-- ✅ **HTML5** (Semantic Tags, Forms, Media, Structure)  
-- 🚧 **CSS** (In Progress)  
-- 📁 Daily coding & GitHub commits  
-- 🌱 Focused on **clean code**, **accessibility**, and **best practices**  
+- 🚧 **CSS3** — Styling, box model, layout, and responsive design *(In Progress)*  
+- 📁 Committed to **daily coding** and consistent **GitHub contributions**  
+- 🌱 Focused on writing **clean code**, ensuring **accessibility**, and following **best practices**
 
 ---
 
