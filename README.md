@@ -35,8 +35,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coding-nouman&theme=tokyonight&v=2"/>
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coding-nouman&theme=tokyonight&utcOffset=+5"/>
+ <img width="280" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coding-nouman&theme=tokyonight&v=2"/>
+  <img width="280" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coding-nouman&theme=tokyonight&utcOffset=+5"/>
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-nouman&theme=tokyonight&hide_border=false"/>
 </div>
 
