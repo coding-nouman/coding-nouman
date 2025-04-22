@@ -20,20 +20,24 @@
 
 ## 🧰 Tools & Technologies
 
-| Languages | Dev Tools | OS |
-|----------|-----------|----|
-| <img src="HTML.svg" width="40" /> HTML | <img src="Git.svg" width="40" /> Git | <img src="Windows-Light.svg" width="40" /> Windows |
-| <img src="CSS.svg" width="40" /> CSS | <img src="Github-Dark.svg" width="40" /> GitHub |  |
-| <img src="JavaScript.svg" width="40" /> JavaScript *(Coming Soon)* | <img src="VSCode-Dark.svg" width="40" /> VS Code |  |
+<p>
+  <img src="HTML.svg" width="48" alt="HTML">
+  <img src="CSS.svg" width="48" alt="CSS">
+  <img src="JavaScript.svg" width="48" alt="JavaScript">
+   <img src="VSCode-Dark.svg" width="48" alt="GitHub">
+  <img src="Github-Dark.svg" width="48" alt="GitHub">
+  <img src="Git.svg" width="48" alt="Git">
+  <img src="Windows-Light.svg" width="48" alt="Windows">
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coding-nouman&theme=tokyonight&v=2"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coding-nouman&theme=tokyonight&utcOffset=+5" />
-</div>
+<img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coding-nouman&theme=tokyonight&v=2"/>  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coding-nouman&theme=tokyonight&utcOffset=+5" />
+
 
 ---
 
