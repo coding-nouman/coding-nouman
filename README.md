@@ -28,7 +28,7 @@
 
 ---
 
-## 📊 GitHub Summary Cards (Blue Theme)
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coding-nouman&theme=tokyonight&v=2"/>
@@ -41,7 +41,6 @@
   
 ![snake gif](https://github.com/coding-nouman/coding-nouman/blob/output/github-snake-dark.svg)  
   
-
 </div>
 
 ---
