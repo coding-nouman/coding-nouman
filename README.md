@@ -43,6 +43,7 @@
 
 <div align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-nouman&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Coding-Nouman&theme=dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
 </div>
 
 ---
