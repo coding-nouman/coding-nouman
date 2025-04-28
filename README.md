@@ -10,11 +10,8 @@
 ## 🔥 About Me
 
 🎯 I'm Nouman, a focused **Frontend Web Developer** who codes with vision and purpose.
-
-- ✅ **HTML & CSS** mastered — clean code, solid structure, beautiful styling  
-- 🚀 Currently sharpening skills in **layout systems** (Flex, Grid, Responsive Design)  
-- 💼 Launched my first live project: [portfolio-v1 - Coming Soon](https://coding-nouman.github.io/portfolio-v1/)  
-- 📁 Active contributor with daily commits and real project building  
+  
+  - 📁 Active contributor with daily commits and real project building  
 
 ---
 
