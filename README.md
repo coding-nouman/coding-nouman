@@ -11,7 +11,7 @@
 
 🎯 I'm Nouman, a focused **Frontend Web Developer** who codes with vision and purpose.
   
-  - 📁 Active contributor with daily commits and real project building  
+- 📁 Active contributor with daily commits and real project building
 
 ---
 
@@ -32,22 +32,41 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coding-nouman&theme=tokyonight&v=2" />  
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coding-nouman&theme=tokyonight&utcOffset=+5" />
+  
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=coding-nouman&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170em" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coding-nouman&theme=dark&hide_border=false" alt="GitHub Streak" height="170em" />
+  
 </div>
 
 ---
 
+## 🚀 More GitHub Insights
+
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coding-nouman&theme=tokyonight&v=2" height="170em" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coding-nouman&theme=tokyonight&utcOffset=+5" height="170em" />
+  
+</div>
+
+---
+
+## 📚 Top Languages
+
 <div align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-nouman&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  </div>
+</div>
 
 ---
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 
-  ![snake gif](https://github.com/coding-nouman/coding-nouman/blob/output/github-snake-dark.svg)  
+  ![Snake animation](https://github.com/coding-nouman/coding-nouman/blob/output/github-snake-dark.svg)
 
 </div>
 
@@ -55,11 +74,11 @@
 
 ## 📫 Connect With Me
 
-- GitHub: [@coding-nouman](https://github.com/coding-nouman)  
+- GitHub: [@coding-nouman](https://github.com/coding-nouman)
 - Email: `noumanali.coding@gmail.com`
 
 ---
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcoding-nouman%2F&countColor=%23263759" alt="Visitor Count"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcoding-nouman%2F&countColor=%23263759" alt="Visitor Count" />
 </div>
