@@ -15,7 +15,7 @@
 - 💼 I'm **Nouman Coding**, a passionate and skilled **Frontend Web Developer** focused on JavaScript and web technologies.
 - 🧱 I build real-world projects using **HTML5, CSS3, and JavaScript ES6+**.
 - 🔁 I commit code **daily** and consistently contribute to open-source projects.
-- 
+
 ---
 
 ## 🛠️ Tech Stack & Tools
