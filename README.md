@@ -1,9 +1,4 @@
-<!-- Typing Animation Banner -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=62F729&background=24975C00&center=true&width=435&lines=%E2%82%8A+%CB%9A%E2%82%8A+%E2%9A%9CNouman+Coding%E2%9A%9C+%CB%9A+%E2%82%8A%CB%9A;%E2%8B%86%EF%BD%A1%EF%BE%9F%E2%98%81%EF%B8%8E%EF%BD%A1Software+Engineer%E2%8B%86%EF%BD%A1%E2%98%81%EF%B8%8E%EF%BD%A1%E2%8B%86;%E2%96%91%E2%96%92%E2%96%93Frontend+Developer%E2%96%93%E2%96%92%E2%96%91" alt="Typing SVG" />
-  </a>
-</div>
+<h1 align="center">Hi 👋, I'm  Nouman Coding</h1>
 
 ---
 
