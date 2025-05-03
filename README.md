@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm <span style="color:#f39c12;">Nouman</span> 👨‍💻
+  Hi there, I'm <span style="color:#f39c12;">Nouman Coding</span> 👨‍💻
 </h1>
 
 <p align="center">
