@@ -30,7 +30,6 @@
   <img src="Windows-Light.svg" width="48" alt="Windows OS" title="Windows">
 </p>
 
-
 ---
 
 ## 📈 GitHub Analytics
