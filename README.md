@@ -9,7 +9,7 @@
 
 ## 🔥 About Me
 
-- 🎯 Hi I'm Nouman, a focused **Frontend Web Developer** who codes with vision and purpose. 
+- 🎯 Hi I'm Nouman Coding, a focused **Frontend Web Developer** who codes with vision and purpose. 
 - 📁 Active contributor with daily commits and real project building
 
 ---
