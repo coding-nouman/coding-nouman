@@ -4,7 +4,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=coding-nouman&label=Profile+Views&color=00bfff&style=flat" alt="views" />
   <img src="https://img.shields.io/github/followers/coding-nouman?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/coding-nouman?style=social" alt="GitHub Stars" />
 </p>
