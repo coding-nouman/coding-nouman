@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Frontend+Web+Development" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/coding-nouman?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/coding-nouman?style=social" alt="GitHub Stars" />
-</p>
-
 ---
 
 ## 🔥 About Me
