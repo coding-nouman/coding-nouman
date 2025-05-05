@@ -10,7 +10,7 @@
 
 ### 🔥 About Me
 - 💼 I'm **Nouman Coding**, a passionate Frontend Web Developer.
-- 🔧 I work with **HTML5**, **CSS3**, and **JavaScript ES6+** to build clean, real-world websites.
+- 🔧 I work with **HTML5**, **CSS3**, and **JavaScript ES6+** to build, real-world websites.
 - 📅 I **commit code daily** and regularly contribute to **open-source** projects.
 ---
 
