@@ -6,25 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=450&lines=Frontend+Web+Developer;JavaScript+%7C+HTML5+%7C+CSS3;Clean+Code+%7C+Live+Projects+%7C+Daily+Practice" alt="Typing SVG" />
 </p>
 
----
-
-### 🔥 About Me
-- 💼 I'm **Nouman Coding**, a passionate Frontend Web Developer.
-- 🔧 I work with **HTML5**, **CSS3**, and **JavaScript ES6+** to build, real-world websites.
-- 📅 I **commit code daily** and regularly contribute to **open-source** projects.
----
-
-### 🛠️ Tech Stack & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=fff)
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
